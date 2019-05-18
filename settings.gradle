@@ -1,0 +1,1 @@
+include ':app', ':java', ':Server', ':Server', ':Client', ':UDPServer', ':UDPClient', ':FThread', ':SThread', ':MS'

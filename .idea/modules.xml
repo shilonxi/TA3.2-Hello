@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FThread/FThread.iml" filepath="$PROJECT_DIR$/FThread/FThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello.iml" filepath="$PROJECT_DIR$/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS/MS.iml" filepath="$PROJECT_DIR$/MS/MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SThread/SThread.iml" filepath="$PROJECT_DIR$/SThread/SThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPClient/UDPClient.iml" filepath="$PROJECT_DIR$/UDPClient/UDPClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPServer/UDPServer.iml" filepath="$PROJECT_DIR$/UDPServer/UDPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+    </modules>
+  </component>
+</project>
